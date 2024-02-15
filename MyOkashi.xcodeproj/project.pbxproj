@@ -15,6 +15,7 @@
 		4C94310B2B7C551F00014EF7 /* MyOkashiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C94310A2B7C551F00014EF7 /* MyOkashiUITests.swift */; };
 		4C94310D2B7C551F00014EF7 /* MyOkashiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C94310C2B7C551F00014EF7 /* MyOkashiUITestsLaunchTests.swift */; };
 		4C94311A2B7C558B00014EF7 /* OkashiData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9431192B7C558B00014EF7 /* OkashiData.swift */; };
+		4C94311C2B7DA2CA00014EF7 /* safariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C94311B2B7DA2C900014EF7 /* safariView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		4C94310A2B7C551F00014EF7 /* MyOkashiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyOkashiUITests.swift; sourceTree = "<group>"; };
 		4C94310C2B7C551F00014EF7 /* MyOkashiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyOkashiUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		4C9431192B7C558B00014EF7 /* OkashiData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OkashiData.swift; sourceTree = "<group>"; };
+		4C94311B2B7DA2C900014EF7 /* safariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = safariView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			children = (
 				4C9430EF2B7C551D00014EF7 /* MyOkashiApp.swift */,
 				4C9430F12B7C551D00014EF7 /* ContentView.swift */,
+				4C94311B2B7DA2C900014EF7 /* safariView.swift */,
 				4C9431192B7C558B00014EF7 /* OkashiData.swift */,
 				4C9430F32B7C551F00014EF7 /* Assets.xcassets */,
 				4C9430F52B7C551F00014EF7 /* Preview Content */,
@@ -260,6 +263,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C94311C2B7DA2CA00014EF7 /* safariView.swift in Sources */,
 				4C9430F22B7C551D00014EF7 /* ContentView.swift in Sources */,
 				4C94311A2B7C558B00014EF7 /* OkashiData.swift in Sources */,
 				4C9430F02B7C551D00014EF7 /* MyOkashiApp.swift in Sources */,
